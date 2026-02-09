@@ -1,0 +1,31 @@
+[
+  {
+    "nome": "teste",
+    "data": "2026-02-03 09:26:04",
+    "raiz": {
+      "valor": 23,
+      "left": {
+        "valor": 2,
+        "left": null,
+        "right": null
+      },
+      "right": {
+        "valor": 55,
+        "left": {
+          "valor": 31,
+          "left": {
+            "valor": 24,
+            "left": null,
+            "right": null
+          },
+          "right": null
+        },
+        "right": {
+          "valor": 87,
+          "left": null,
+          "right": null
+        }
+      }
+    }
+  }
+]
